@@ -136,17 +136,12 @@ cypress/screenshots/
 * CI/CD integration ready
 * Multi-browser support
 
----
 
 ## 📄 License
 
 Open-source under the [MIT License](LICENSE).
 
----
-
 ## 👤 Author
 
 **Dinesh K**
 🔗 [GitHub Profile](https://github.com/Dineshk1324)
-
-```
