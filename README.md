@@ -1,14 +1,3 @@
-Here’s your **single copy-paste** complete `README.md` — just paste this into a file named `README.md` in your Cypress project root, save it, and run:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-```
-
----
-
-```markdown
 # Cypress Automated Testing Suite
 
 End-to-end automated testing suite built with **Cypress** for web application UI and functional validation. Implements the **Page Object Model (POM)** for scalable architecture, supports data-driven testing, and captures screenshots/videos on failures. Designed for seamless CI/CD integration and efficient regression coverage.
@@ -160,9 +149,4 @@ Open-source under the [MIT License](LICENSE).
 **Dinesh K**
 🔗 [GitHub Profile](https://github.com/Dineshk1324)
 
-```
-
----
-
-If you want, I can also **add `.gitignore` and a GitHub Actions workflow** so your repo is CI/CD ready instantly. That would make it look like a production-level automation project.
 ```
